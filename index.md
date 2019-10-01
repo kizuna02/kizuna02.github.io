@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Develop a logistic regression model in SAS to predict customer response rate](https://www.ericaportfolio.com/post/predict-customer-response-rate-for-a-marketing-campaign-by-using-a-logistic-regression-model)
+[Machine Learning In Digital Advertising](https://www.ericaportfolio.com/post/predict-customer-response-rate-for-a-marketing-campaign-by-using-a-logistic-regression-model)
 <img src="images/ta.jpg"/>
 
 ---
