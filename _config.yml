@@ -1,6 +1,5 @@
-title: Erica Li  # your name (or website title) here
+title: Erica Li <meta property='og:image' content='//images/cover_page.png/"/>  # your name (or website title) here
 
-<meta property='og:image' content='//images/cover_page.png/"/>
 
 logo: "/images/1.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
