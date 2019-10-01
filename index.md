@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
+[Develop a logistic regression model in SAS to predict customer response rate](https://www.ericaportfolio.com/post/predict-customer-response-rate-for-a-marketing-campaign-by-using-a-logistic-regression-model)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Market Research
 
-- [Project 1 Title](http://example.com/)
+- [Tim Hortons Marching Into China](https://www.ericaportfolio.com/post/tim-hortons-marching-into-china)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
