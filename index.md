@@ -5,7 +5,7 @@
 ### Data Science
 
 [Develop a logistic regression model in SAS to predict customer response rate](https://www.ericaportfolio.com/post/predict-customer-response-rate-for-a-marketing-campaign-by-using-a-logistic-regression-model)
-<img src="images/ta"/>
+<img src="images/ta.jpg"/>
 
 ---
 
@@ -13,7 +13,7 @@
 ### Market Research
 
 - [Tim Hortons Marching Into China](https://www.ericaportfolio.com/post/tim-hortons-marching-into-china)
-<img src="images/th"/>
+<img src="images/th.jpeg"/>
 ---
 
 
